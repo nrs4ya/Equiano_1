@@ -91,7 +91,11 @@
             <pb facs="tcp:0324600501:1" rendition="simple:additions"/>
             <p>
                <figure>
+<<<<<<< HEAD
                   <head><span id="atk” corresp="ntk”>Olaudah Equiano or GUSTAVUS VASSA, the African</span> <note id="ntk” target="atk” type="gloss">Equiano’s remarkable frontispiece depicts him as a British gentleman of the period; his direct gaze at the viewer, rare for a portrait of a person of color in this period, establishes his equality with the prospective reader. He holds a Bible open to the Acts of the Apostles, 4:12, “Neither is there salvation in any other, for there is none other name under heaven given among men, whereby we must be saved.” (King James version)</note>
+=======
+                  <head><span id="atk” corresp="ntk”>Olaudah Equiano or GUSTAVUS VASSA, the African</span> <note id="ntk” target="atk” type="gloss">Equiano’s remarkable frontispiece depicts him as a British gentleman of the period; his direct gaze at the viewer, rare for a portrait of a person of color in this period, establishes his equality with the prospective reader. He holds a Bible open to the Acts of the Apostles, 4:12, “Neither is there salvation in any other, for there is none other name under heaven given among men, whereby we must be saved.” (King James version)</note>
+>>>>>>> refs/remotes/origin/master
 </head>
                   <p><span id="atk” corresp="ntk”>Published March 1 1789 by G. Vassa</span> <note id="ntk” target="atk” type="gloss">Equiano published this book himself, under the name he had been given by his master, Michael Pasquale, when he was first enslaved. Self-publication like this was unusual in the period, and we do not know why Equiano retained copyright rather than publishing through a London bookseller. But the book was very financially successful for him, going through nine British editions in his lifetime, and Equiano earned a considerable sum from it, so in effect the gamble that he was taking by publishing the book on his own paid off.</note>
 </p>
